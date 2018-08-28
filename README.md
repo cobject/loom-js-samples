@@ -3,6 +3,13 @@ Sample code demonstrating usage of https://github.com/loomnetwork/loom-js
 
 # Samples
 
+## prerequisites
+
+- Loom SDK
+- weave-blueprint contract
+
+Follow instructions on https://github.com/loomnetwork/weave-blueprint
+
 ## quickstart
 
 Sample code from https://loomx.io/developers/docs/en/loom-js-quickstart.html
